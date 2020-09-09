@@ -7,11 +7,27 @@
 is really really cool. My Project has a subdir named myLib, see below.
 
 
+The Art of Computer Programming, Volume 1, Fascicle 1: MMIX -- A RISC Computer for the New Millennium 1st Edition
+[![](https://images-na.ssl-images-amazon.com/images/I/51sS0cybQKL._SX333_BO1,204,203,200_.jpg)](https://www.amazon.com/Art-Computer-Programming-Fascicle-Millennium/dp/0201853922/ref=rtpb_2/132-4480868-9513521)
+[![](https://cfl.dropboxstatic.com/static/images/logo_catalog/glyph_m1%402x.png)](https://www.dropbox.com/home)
+
+
+![](https://cfl.dropboxstatic.com/static/images/logo_catalog/glyph_m1%402x.png =100x20)
+
+![](https://cfl.dropboxstatic.com/static/images/logo_catalog/glyph_m1%402x.png =250x)
+
+
+
+ <a href="https://www.amazon.com/Art-Computer-Programming-Fascicle-Millennium/dp/0201853922/ref=rtpb_2/132-4480868-9513521">
+	 <img alt="Qries" src="https://images-na.ssl-images-amazon.com/images/I/51sS0cybQKL._SX333_BO1,204,203,200_.jpg"
+	 width=150">
+</a>			       
+<img src="https://cfl.dropboxstatic.com/static/images/logo_catalog/glyph_m1%402x.png" alt="drawing" width="20"/>
 
 
 ### myLib documentation
 
-see documentation [![test](https://www.gravatar.com/avatar/e88b8610975407be5186aa3bd55a453c?s=64&d=identicon&r=PG&f=1)](myLib.md)
+see documentation [![test](https://github.com/mgemard/travis-test/blob/master/avatar_stackoverflow.png)](mylib.md)
 
 fdfdfdfd
 
