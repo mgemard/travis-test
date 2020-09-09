@@ -22,12 +22,11 @@ The Art of Computer Programming, Volume 1, Fascicle 1: MMIX -- A RISC Computer f
 	 <img alt="Qries" src="https://images-na.ssl-images-amazon.com/images/I/51sS0cybQKL._SX333_BO1,204,203,200_.jpg"
 	 width=150">
 </a>		
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-!<img src="https://github.com/mgemard/travis-test/blob/master/amazon.jpg.jpg" alt="drawing" width="40"/>  |  <img src="https://github.com/mgemard/travis-test/blob/master/wikipedia.jpeg.jpeg" alt="drawing" width="40"/>)
-		   
+
+<p float="left">	  
 <img src="https://github.com/mgemard/travis-test/blob/master/amazon.jpg.jpg" alt="drawing" width="40"/>
 <img src="https://github.com/mgemard/travis-test/blob/master/wikipedia.jpeg.jpeg" alt="drawing" width="40"/>
+</p>
 													      
 
 ### myLib documentation
