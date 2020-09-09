@@ -32,6 +32,7 @@ The Art of Computer Programming, Volume 1, Fascicle 1: MMIX -- A RISC Computer f
 ### myLib documentation
 
 
+![](amazon.jpg.jpg)
 ![](https://github.com/mgemard/travis-test/blob/master/amazon.jpg.jpg)
 
 
