@@ -21,11 +21,19 @@ The Art of Computer Programming, Volume 1, Fascicle 1: MMIX -- A RISC Computer f
  <a href="https://www.amazon.com/Art-Computer-Programming-Fascicle-Millennium/dp/0201853922/ref=rtpb_2/132-4480868-9513521">
 	 <img alt="Qries" src="https://images-na.ssl-images-amazon.com/images/I/51sS0cybQKL._SX333_BO1,204,203,200_.jpg"
 	 width=150">
-</a>			       
-<img src="https://cfl.dropboxstatic.com/static/images/logo_catalog/glyph_m1%402x.png" alt="drawing" width="20"/>
-
+</a>		
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+!<img src="https://github.com/mgemard/travis-test/blob/master/amazon.jpg.jpg" alt="drawing" width="40"/>  |  <img src="https://github.com/mgemard/travis-test/blob/master/wikipedia.jpeg.jpeg" alt="drawing" width="40"/>)
+		   
+<img src="https://github.com/mgemard/travis-test/blob/master/amazon.jpg.jpg" alt="drawing" width="40"/>
+<img src="https://github.com/mgemard/travis-test/blob/master/wikipedia.jpeg.jpeg" alt="drawing" width="40"/>
+													      
 
 ### myLib documentation
+
+
+<img src="https://cfl.dropboxstatic.com/static/images/logo_catalog/glyph_m1%402x.png" alt="drawing" width="20"/>
 
 see documentation [![test](https://github.com/mgemard/travis-test/blob/master/avatar_stackoverflow.png)](mylib.md)
 
