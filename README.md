@@ -20,11 +20,11 @@ The Art of Computer Programming, Volume 1, Fascicle 1: MMIX -- A RISC Computer f
 
  <a href="https://www.amazon.com/Art-Computer-Programming-Fascicle-Millennium/dp/0201853922/ref=rtpb_2/132-4480868-9513521">
 	 <img alt="Qries" src="https://images-na.ssl-images-amazon.com/images/I/51sS0cybQKL._SX333_BO1,204,203,200_.jpg"
-	 width=150">
+	 height=300">
 </a>
 <a href="https://www.amazon.com/Art-Computer-Programming-Seminumerical-Algorithms/dp/0201896842/ref=rtpb_5/132-4480868-9513521">
 	 <img alt="Qries" src="https://images-na.ssl-images-amazon.com/images/I/51LhI5wlKPL._SX341_BO1,204,203,200_.jpg"
-	 width=150">
+	 height=300">
 </a>
 		   
 
@@ -51,3 +51,9 @@ fdfdfdfd
 
 #[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 	
+
+https://www.amazon.com/Art-Computer-Programming-Seminumerical-Algorithms/dp/0201896842/ref=rtpb_5/132-4480868-9513521
+
+https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming
+
+https://doc.rust-lang.org/book/
